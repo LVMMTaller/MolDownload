@@ -1,0 +1,14 @@
+
+r
+java:S3008	"PRename this field "PROPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‘±©şÿÿÿÿ8Î»Ç¦ 1
+k
+java:S3008
+"NRename this field "CID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑêÊ8Ó»Ç¦ 1
+s
+java:S3008"QRename this field "CAS_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÂéÊúÿÿÿÿ8Ô»Ç¦ 1
+|
+java:S3008"_Rename this field "URL_PUBCHEM_PATH_SDF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ü©8Õ»Ç¦ 1
+†
+java:S3008"dRename this field "URL_PUBCHEM_PATH_PROPERTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğãÀ›ÿÿÿÿÿ8×»Ç¦ 1
+y
+java:S3008"\Rename this field "URL_CAS_PATH_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª£÷Å8Ø»Ç¦ 1
